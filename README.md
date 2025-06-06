@@ -11,3 +11,5 @@
 To install this project, we recommend that you create a virtual environment and install the `requirements.txt` file.
 
  To test the hyperparametrization, run the Streamlit app using the command `streamlit run streamlit_topics.py` in the folder.
+
+ You can test this app online via [this link][https://johancuda-memoire-streamlit-streamlit-topics-synwyl.streamlit.app/].
